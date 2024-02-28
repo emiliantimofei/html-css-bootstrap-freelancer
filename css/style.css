@@ -1,0 +1,29 @@
+.tc-debug {
+    border: 1px solid red;
+}
+.odd{
+    background-color: #1ABC9C;
+}
+.even{
+    background-color: #2C3E50;
+}
+.tc-nav-item{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.tc-nav-item:hover{
+    color: #1ABC9C;
+}
+#width-avatar{
+    max-width: 200px;
+}
+.hero-txt{
+    color: white;
+}
+.fa-minus, .fa-star{
+    font-size: 2em;
+}
+div .py-3{
+    font-size: 1.5em;
+}
